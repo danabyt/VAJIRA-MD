@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=b4RyHAiC#dA9m50LW88a7IxS3Y3JWJgwUjwcdVenpw3qQo76_llk"
         },
     "MODE": {
             "description": "You need to change number reply mode put below nonbutton or you need to change button mote put below button/ ඔබට අංක මගින් බොට් ක්ටියා කිරීමට පහත කොටුවෙහි nonbutton ලෙස ටයිප් කරන්න නැතහොත් බටන්ස් මගින් ක්‍රියා කිරිමට අවශ්‍යනම් පහත කොටුවෙහි button ලෙස ටයිප් කරන්න",
